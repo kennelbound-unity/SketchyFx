@@ -1,0 +1,7 @@
+{
+  "name": "SketchyFx",
+  "export": "Assets",
+  "dependencies": [
+    "local/StandardAssetsEffects"
+  ]
+}
